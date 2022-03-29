@@ -1,12 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&fontColor=f5f6fa&color=192a56&height=220&section=header&text=MinSeok%20Lee&fontSize=40)
-　　
-　　
-　　
-　　
-　　
-　　
-　　
-　　
+
+&nbsp;
+
+&nbsp;
+
 <h2 font-size="20px" align="center"> Info </h2>
 
 <div align="center">
@@ -34,6 +31,11 @@
   </table>
   
 <div>
+
+&nbsp;
+
+&nbsp;
+
 <h2 font-size="20px" align="center"> Stacks </h2>
 
 <div align="center">
@@ -56,7 +58,10 @@
     </tr>
   </table>
 </div>
+  
+&nbsp;
 
+&nbsp;
 
 <h2 font-size="20px" align="center"> Wakatime detail </h2>
 
