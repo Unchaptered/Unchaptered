@@ -61,7 +61,10 @@
 
 <h2 font-size="20px" align="center"> Wakatime detail </h2>
 
+<div align="center">
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+  
 </div>
 
