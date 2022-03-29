@@ -34,8 +34,6 @@
 
 &nbsp;
 
-&nbsp;
-
 <h2 font-size="20px" align="center"> Stacks </h2>
 
 <div align="center">
@@ -59,8 +57,6 @@
   </table>
 </div>
   
-&nbsp;
-
 &nbsp;
 
 <h2 font-size="20px" align="center"> Wakatime detail </h2>
