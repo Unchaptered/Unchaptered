@@ -30,32 +30,51 @@
     </tr>
   </table>
   
-<div>
+<h2 font-size="20px" align="center"> Projects </h2>
 
+<div align="center">
+  
+<table>
+  <tr>
+    <th>`22.03</th>
+    <th>Express.JS MongoDB Indexing</th>
+    <th align="left">Express.JS, MongoDB, Insomenia 등을 사용해, RESTful API 백앤드 서버를 만들고 있습니다.<br>De-nomalize, Nesting, Indexing 등을 배우고 있습니다.</th>
+  </tr>
+  <tr>
+    <th>`22.03</th>
+    <th>Nest.JS Board Website</th>
+    <th align="left">Nest.JS 기반으로 간단한 Board, User CRUD Web 을 구현 중입니다.</th>
+  </tr>
+<table>
+      
+<div>
+    
 &nbsp;
 
 <h2 font-size="20px" align="center"> Stacks </h2>
 
 <div align="center">
-  <table>
+  <table font-weight="100">
     <tr>
       <th>JavaScript</th>
-      <th font-weight="100">JS 생태계를 사랑하며, ES6+ 문법을 유연하게 사용할 수 있습니다.</th>
+      <th align="left">JS 생태계를 사랑하며, ES6+ 문법을 유연하게 사용할 수 있습니다.</th>
     </tr>
     <tr>
       <th>MySQL, PostgreSQL</th>
-      <th>Join, Subquery 등을 사용하며, 쿼리문의 실행순서를 고려할 수 있습니다.</th>
+      <th align="left">Join, Subquery 등을 사용하며, 쿼리문의 실행순서를 고려할 수 있습니다.</th>
     </tr>
     <tr>
       <th>MongoDB</th>
-      <th>Base-on-document 에 따라서 문서를 내장시키고 이를 사용할 수 있습니다.</th>
+      <th align="left">Base-on-document 에 따라서 문서를 내장시키고 이를 사용할 수 있습니다.</th>
     </tr>
     <tr>
       <th>Jest,Cypress</th>
-      <th>테스트 코드에 대한 고민을 하지만, 아직은 많이 부족한 상태입니다.</th>
+      <th align="left">테스트 코드에 대한 고민을 하지만, 아직은 많이 부족한 상태입니다.</th>
     </tr>
   </table>
+  
   <footer> 자세한 내용은 <a href="https://band-queen-769.notion.site/9cf275a5af0441529ba7ba43f0d51f40">노션 프로필</a>을 참고해주세요 😀 </footer>
+  
 </div>
   
 &nbsp;
