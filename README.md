@@ -13,19 +13,19 @@
   <table>
     <tr>
       <th>
-          <a href="https://github.com/unchaptered"> Programmers 프로필 </a>
+          <a href="https://github.com/unchaptered"> 깃허브 </a>
       </th>
       <th>
-          <a href="https://velog.io/@unchapterd"> Notion 링크 </a>
+          <a href="https://velog.io/@unchapterd"> 블로그 </a>
       </th>
       <th>
-          <a href="https://www.notion.so/9cf275a5af0441529ba7ba43f0d51f40"> Github 링크 </a>
+          <a href="https://www.notion.so/9cf275a5af0441529ba7ba43f0d51f40"> 노션 프로필 </a>
       </th>
       <th>
-          <a href="https://programmers.co.kr/pr/workstation19961002_3722"> Velog 링크 </a>
+          <a href="https://programmers.co.kr/pr/workstation19961002_3722"> 프로그래머스 프로필 </a>
       </th>
       <th>
-          <a href="workstation19961002@gamil.com"> 이메일 </a>
+          <a href="workstation19961002@gamil.com"> CONTACT 이메일 </a>
       </th>
     </tr>
   </table>
