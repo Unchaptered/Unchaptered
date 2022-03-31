@@ -45,6 +45,11 @@
     <th><a href="https://github.com/unchaptered/22-03-nestjs-board">Nest.JS Board Website</a></th>
     <th align="left">Nest.JS 기반으로 간단한 Board, User CRUD Web 을 구현 중입니다.</th>
   </tr>
+  <tr>
+    <th>`22.04</th>
+    <th><a href="https://github.com/unchaptered/22-03-svelte-movie-app">Svelte Movie app</a></th>
+    <th align="left">Svelte 기반으로 간단한 Movie app 을 구현 중입니다.</th>
+  </tr>
 <table>
       
 <div>
