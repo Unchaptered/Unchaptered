@@ -47,8 +47,8 @@
   </tr>
   <tr>
     <th>`22.04</th>
-    <th><a href="https://github.com/unchaptered/22-03-svelte-movie-app">Svelte Movie app</a></th>
-    <th align="left">Svelte 기반으로 간단한 Movie app 을 구현 중입니다.</th>
+    <th><a href="https://github.com/unchaptered/22-03-svelte-movie-app"> Code Solve </a></th>
+    <th align="left">Svelte.TS 와 Nest.TS 로 분리형 서버로 구현 중입니다.</th>
   </tr>
 <table>
       
