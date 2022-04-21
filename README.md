@@ -8,7 +8,8 @@
 
 <div align="center">
   
-  <p>신입 백앤드 개발자 이민석이라고 합니다.</P>
+  <p>JavaScript 와 Node 를 사랑하는 신입 개발자 이민석입니다.</P>
+  <p>탄탄한 비즈니스 로직 구현과 Jest 에 관심이 많습니다.</p>
 
   <table>
     <tr>
