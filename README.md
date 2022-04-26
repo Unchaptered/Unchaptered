@@ -2,14 +2,14 @@
 
 &nbsp;
 
-&nbsp;
-
-<h2 font-size="20px" align="center"> Info </h2>
+<h2 font-size="20px" align="center"> 기록하는 개발자 </h2>
 
 <div align="center">
   
-  <p>JavaScript 와 Node 를 사랑하는 신입 개발자 이민석입니다.</P>
-  <p>탄탄한 비즈니스 로직 구현과 Jest 에 관심이 많습니다.</p>
+  <p>신입 Node 백앤드 개발자 이민석입니다.</p>
+  <p>JavaScript 와 Node 생태계를 사랑합니다.</p>
+  <p><strong>지속가능한 노력</strong> 을 지향하며 <strong>기술 블로그</strong> 를 운영하고 있습니다.</p>
+  
   <p></p>
   <table>
     <tr>
@@ -30,52 +30,23 @@
       </th>
     </tr>
   </table>
-  
-<h2 font-size="20px" align="center"> Projects </h2>
-
-<div align="center">
-  
-<table>
-  <tr>
-    <th>`22.03</th>
-    <th><a href="https://github.com/unchaptered/22-03-express-mongodb">Express.JS MongoDB Server</a></th>
-    <th align="left">Express.JS, MongoDB, Insomenia 등을 사용해, RESTful API 백앤드 서버를 만들고 있습니다.<br>De-nomalize, Nesting, Indexing 등을 배우고 있습니다.</th>
-  </tr>
-  <tr>
-    <th>`22.03</th>
-    <th><a href="https://github.com/unchaptered/22-03-nestjs-board">Nest.JS Board Website</a></th>
-    <th align="left">Nest.JS 기반으로 간단한 Board, User CRUD Web 을 구현 중입니다.</th>
-  </tr>
-  <tr>
-    <th>`22.04</th>
-    <th><a href="https://github.com/unchaptered/22-03-svelte-movie-app"> Code Solve </a></th>
-    <th align="left">Svelte.TS 와 Nest.TS 로 분리형 서버로 구현 중입니다.</th>
-  </tr>
-<table>
-      
-<div>
-    
-&nbsp;
+ 
 
 <h2 font-size="20px" align="center"> Stacks </h2>
 
 <div align="center">
   <table font-weight="100">
     <tr>
-      <th>JavaScript</th>
-      <th align="left">JS 생태계를 사랑하며, ES6+ 문법을 유연하게 사용할 수 있습니다.</th>
+      <th>Test</th>
+      <th align="left">Jest, Supertest</th>
     </tr>
     <tr>
-      <th>MySQL, PostgreSQL</th>
-      <th align="left">Join, Subquery 등을 사용하며, 쿼리문의 실행순서를 고려할 수 있습니다.</th>
+      <th>Database</th>
+      <th align="left">MongoDB, PostgreSQL, Redis</th>
     </tr>
     <tr>
-      <th>MongoDB</th>
-      <th align="left">Base-on-document 에 따라서 문서를 내장시키고 이를 사용할 수 있습니다.</th>
-    </tr>
-    <tr>
-      <th>Jest,Cypress</th>
-      <th align="left">테스트 코드에 대한 고민을 하지만, 아직은 많이 부족한 상태입니다.</th>
+      <th>Framework</th>
+      <th align="left">Express, Nest</th>
     </tr>
   </table>
   
