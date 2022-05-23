@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&fontColor=f5f6fa&color=192a56&height=220&section=header&text=MinSeok%20Lee&fontSize=40)
-
-&nbsp;
-
 <h2 font-size="20px" align="center"> 기록하는 개발자 </h2>
 
 <div align="center">
