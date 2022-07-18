@@ -27,6 +27,7 @@ Participate in `Hanghae99(Sailing99)`, Korean Boot Camp of Dev.
 ## Stack
 
 - Testing : Jest
+- CI/CD : Github Action
 - Framework : Express, Nest, Worker(cloudflare serverless)
 - Database : MongoDB, Realm(Mongo App Services), PostgreSQL, Redis
 - Language : JavaScript, TypeScript, Java
