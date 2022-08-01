@@ -32,3 +32,5 @@ Participate in `Hanghae99(Sailing99)`, Korean Boot Camp of Dev.
 - Database : MongoDB, Realm(Mongo App Services), PostgreSQL, Redis
 - Language : JavaScript, TypeScript, Java
 - Network : AWS Beanstalk, EC2, RDS, S3 / Cloudflare worker
+
+[![Unchapetered's Cards](https://github-readme-stats.vercel.app/api?username=unchaptered)](https://github.com/anuraghazra/github-readme-stats)
