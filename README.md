@@ -1,8 +1,4 @@
-Recording Developer, `unchaptered`.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funchaptered%2Fhit-counter&count_bg=%23546DE5&title_bg=%23303952&icon=nestjs.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Unchapetered's Cards](https://github-readme-stats.vercel.app/api?username=unchaptered)](https://github.com/anuraghazra/github-readme-stats)
+Record-loving Developer, `unchaptered`.
 
 ## Inroduce
 
@@ -28,7 +24,7 @@ Participate in `Hanghae99(Sailing99)`, Korean Boot Camp of Dev.
 
 <hr>
 
-## Stack
+## Stack [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funchaptered%2Fhit-counter&count_bg=%23546DE5&title_bg=%23303952&icon=nestjs.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 <img src="https://img.shields.io/badge/lang-000000?style=for-the-badge">   <img src="https://img.shields.io/badge/javascript-ffda79?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-ffda79?style=for-the-badge&logo=TypeScript&logoColor=black">
 
@@ -42,3 +38,9 @@ Participate in `Hanghae99(Sailing99)`, Korean Boot Camp of Dev.
 <img src="https://img.shields.io/badge/aws%20rds-FF9900?style=for-the-badge&logo=Amazon%20RDS&logoColor=white"> <img src="https://img.shields.io/badge/aws%20s3%20bucket-FF9900?style=for-the-badge&logo=Amazon%20S3&logoColor=white"> <img src="https://img.shields.io/badge/cloudflare%20worker-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"> <img src="https://img.shields.io/badge/cloudflare%20pages-F38020?style=for-the-badge&logo=Cloudflare%20Pages&logoColor=white"> 
 
 <img src="https://img.shields.io/badge/tool-000000?style=for-the-badge">    <img src="https://img.shields.io/badge/gitbub-e15f41?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/gitbub%20action-e15f41?style=for-the-badge&logo=Github%20Actions&logoColor=white">
+
+<hr>
+
+### Log
+
+[![Unchapetered's Cards](https://github-readme-stats.vercel.app/api?username=unchaptered)](https://github.com/anuraghazra/github-readme-stats)
