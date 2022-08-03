@@ -31,7 +31,7 @@ Participate in `Hanghae99(Sailing99)`, Korean Boot Camp of Dev.
 - TIL/WIL Blog : [> Click](https://velog.io/@unchaptered_til)
 - Email : workstation19961002@gmail.com
 
-<img src="https://img.shields.io/badge/tech%20blog-000000?style=for-the-badge" href="https://velog.io/@unchapterd">
+<a href="https://velog.io/@unchapterd"><img src="https://img.shields.io/badge/tech%20blog-000000?style=for-the-badge"></a>
 
 <hr>
 
