@@ -27,12 +27,8 @@ Participate in `Hanghae99(Sailing99)`, Korean Boot Camp of Dev.
 
 ### Contact
 
-- Tech Blog : [> Click](https://velog.io/@unchapterd)
-- TIL/WIL Blog : [> Click](https://velog.io/@unchaptered_til)
-- Email : workstation19961002@gmail.com
-
-<a href="https://velog.io/@unchapterd"><img src="https://img.shields.io/badge/tech%20blog-000000?style=for-the-badge"></a>
-
+<a href="https://velog.io/@unchapterd"><img src="https://img.shields.io/badge/tech%20velog-20C997?style=for-the-badge"></a>   <a href="https://velog.io/@unchaptered_til"><img src="https://img.shields.io/badge/til%20velog-20C997?style=for-the-badge"></a>   
+<a href="workstation19961002@gmail.com"><img src="https://img.shields.io/badge/workstation19961002@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=black"></a> 
 <hr>
 
 ## Stack [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funchaptered%2Fhit-counter&count_bg=%23546DE5&title_bg=%23303952&icon=nestjs.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
