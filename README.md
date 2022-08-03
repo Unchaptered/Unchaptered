@@ -1,5 +1,7 @@
 Recording Developer, `unchaptered`.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funchaptered%2Fhit-counter&count_bg=%23546DE5&title_bg=%23303952&icon=nestjs.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![Unchapetered's Cards](https://github-readme-stats.vercel.app/api?username=unchaptered)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Inroduce
