@@ -5,22 +5,33 @@ Record-loving Developer, `unchaptered`.
 ### What am I doing now?
 
 Participate in `Hanghae99(Sailing99)`, Korean Boot Camp of Dev.
-- Course : [GitHub - unchaptered/Sailing99](https://github.com/unchaptered/Sailing99)
-- Project : [GitHub - unchaptered/coffee-selector](https://github.com/unchaptered/coffee-selector)
-- Algorithm, study : [GitHub - unchaptered/algorithm](https://github.com/unchaptered/algorithm)
-- Computer Science, study : [GitHub - unchaptered/hanghae-cs-study](https://github.com/unchaptered/hanghae-cs-study)
+- All : [unchaptered/Sailing99](https://github.com/unchaptered/Sailing99)
+
+| Title           | Repo Info        | Repo Link|
+| :-------------- | :--------------- | :----------------------------------------------------------------------------------------------- |
+| Coffee-Selector | flask server     | [unchaptered/coffee-selector](https://github.com/unchaptered/coffee-selector)                    |
+| Coffee-Selector | selenium crawler | [unchpatered/coffe-selector-selenium](https://github.com/unchaptered/coffee-selector-selenium)   |
+| Broccoli-Velog  | express server   | [Broccoli-Velog/Broccoli-Backend](https://github.com/Broccoli-Velog/Broccoli-Backend)            |
+| Broccoli-Velog  | react application| [Broccoli-Velog/Broccoli-Frontend](https://github.com/Broccoli-Velog/Broccoli-Frontend)          |
+| Algo Team Study |                  | [unchaptered/algorithm](https://github.com/unchaptered/algorithm)                       |
+| CS Team Study   |                  | [unchaptered/hanghae-cs-study](https://github.com/unchaptered/hanghae-cs-study)         |
+| Technical PR    | Object-Literal and Destructuring | [unchaptered/Sailing99](https://github.com/unchaptered/Sailing99/tree/main/006_tech_pr/001_object-literal-and-destructuring) |
+| Technical PR    | SQL vs NosQL                     | [unchaptered/Sailing99](https://github.com/unchaptered/Sailing99/tree/main/006_tech_pr/002_sql-vs-nosql) |
+
+> I are continuously creating Express-Course and Boilerplayes 🎉 [Boiler-Express](https://github.com/Boiler-Express)
 
 ### What are you interested in?
 
-- GitHub Action
+- CI/CD, _Github Action_ _Code deploy_, ...
 - Cloudflare Workers
 
 ### Contact
 
 - Tech Blog : [> Click](https://velog.io/@unchapterd)
 - TIL/WIL Blog : [> Click](https://velog.io/@unchaptered_til)
-- GitHub repo : [> Click](https://github.com/unchaptered)
 - Email : workstation19961002@gmail.com
+
+<img src="https://img.shields.io/badge/tech%20blog-000000?style=for-the-badge" href="https://velog.io/@unchapterd">
 
 <hr>
 
