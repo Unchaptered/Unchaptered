@@ -13,7 +13,7 @@ Participate in `Hanghae99(Sailing99)`, Korean Boot Camp of Dev.
 | Coffee-Selector | selenium crawler | [unchpatered/coffe-selector-selenium](https://github.com/unchaptered/coffee-selector-selenium)   | 1 week     |
 | Broccoli-Velog  | express server   | [Broccoli-Velog/Broccoli-Backend](https://github.com/Broccoli-Velog/Broccoli-Backend)            | 3 ~ 4 week |
 | Broccoli-Velog  | react application| [Broccoli-Velog/Broccoli-Frontend](https://github.com/Broccoli-Velog/Broccoli-Frontend)          | 3 ~ 4 week |
-| **Mood of the day** | **react + express**  | **[Mood of the day](https://github.com/motd-50)**                                        | **6 week** |
+| **Mood of the day** | **react + express**  | **[Mood of the day](https://github.com/motd-5)**                                        | **6 week** |
 | **Pinterest clone** | **react + express**  | **[Pinterest Clone](https://github.com/CloneCoding-Pinterest)**                          | **7 week** |
 | Algo Team Study |                  | [unchaptered/hanghae-algorithm-study](https://github.com/unchaptered/hanghae-algorithm-study)                                | 2 ~ week     |
 | CS Team Study   |                  | [unchaptered/hanghae-cs-study](https://github.com/unchaptered/hanghae-cs-study)                  | 2 ~ week   |
