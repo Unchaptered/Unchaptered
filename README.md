@@ -59,4 +59,4 @@ Participate in `Hanghae99(Sailing99)`, Korean Boot Camp of Dev.
 
 ### Log
 
-[![Unchapetered's Cards](https://github-readme-stats.vercel.app/api?username=unchaptered)](https://github.com/anuraghazra/github-readme-stats)
+[![Unchapetered's Cards](https://github-readme-stats.vercel.app/api?username=unchaptered)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unchaptered&layout=compact)](https://github.com/unchaptered/github-readme-stats)
