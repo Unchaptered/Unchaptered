@@ -6,20 +6,20 @@ More about me...
 
 ```javascript
 const unchpatered = {
-    job: 'nope';
+    now: 'doing korean boot camp, hanghae99',
     lagnuage: {
-        love: [ 'JavaScript', 'TypeScript' ];
-        interest: [ 'Shell Script (bash)' ];
-        beforeUsed: [ 'Java', 'CSS', 'SCSS', 'TailwindCSS', 'HTML' ];
-    };
+        love: [ 'JavaScript', 'TypeScript' ],
+        interest: [ 'Shell Script (bash)' ],
+        beforeUsed: [ 'Java', 'CSS', 'SCSS', 'TailwindCSS', 'HTML' ],
+    },
     testing: [ 'jest' ],
     others: {
         aws: [ 'route53', 'ec2', 'rds', 's3', 'ses', 'codedeploy' ],
         cloudflare: [ 'pages', 'worker' ],
-        git: [ 'github', 'github actions' ]
-        others: [ 'nginx', 'fail2ban' ]
-    }
-}
+        git: [ 'github', 'github actions' ],
+        others: [ 'nginx', 'fail2ban' ],
+    },
+};
 ```
 
 If someone want to mine, please check ***Profile Wiki*** in [link](https://github.com/unchaptered/unchaptered/wiki).
