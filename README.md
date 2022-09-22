@@ -7,9 +7,18 @@ More about me...
 ```javascript
 const unchpatered = {
     job: 'nope';
-    love_language: [ 'JavaScript', 'TypeScirpt' ];
-    interested_lanuage: [ 'shell script' ];
-    before_used_lanugae: [ 'Java', 'CSS', 'SCSS', 'TailwindCSS', 'HTML' ];
+    lagnuage: {
+        love: [ 'JavaScript', 'TypeScript' ];
+        interest: [ 'Shell Script (bash)' ];
+        beforeUsed: [ 'Java', 'CSS', 'SCSS', 'TailwindCSS', 'HTML' ];
+    };
+    testing: [ 'jest' ],
+    others: {
+        aws: [ 'route53', 'ec2', 'rds', 's3', 'ses', 'codedeploy' ],
+        cloudflare: [ 'pages', 'worker' ],
+        git: [ 'github', 'github actions' ]
+        others: [ 'nginx', 'fail2ban' ]
+    }
 }
 ```
 
