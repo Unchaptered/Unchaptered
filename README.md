@@ -25,6 +25,6 @@ const unchpatered = {
 If someone want to mine, please check ***Profile Wiki*** in [link](https://github.com/unchaptered/unchaptered/wiki).
 
 
-Logs
+<!--Logs
 
-[![Unchapetered's Cards](https://github-readme-stats.vercel.app/api?username=unchaptered)](https://github.com/anuraghazra/github-readme-stats)
+[![Unchapetered's Cards](https://github-readme-stats.vercel.app/api?username=unchaptered)](https://github.com/anuraghazra/github-readme-stats)-->
