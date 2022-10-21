@@ -26,6 +26,13 @@ const unchpatered = {
 If someone want to mine, please check ***Profile Wiki*** in [link](https://github.com/unchaptered/unchaptered/wiki).
 
 
+### History
+
+- **21.06** Start with Node.js
+- **22.11 ~ 22.04** Comprehensive Web Development (HTML, CSS, JavaScript, JSP)
+- **22.07 ~ 22.10** 99 days Node.js Backend Boot Camp
+
+
 <!--Logs
 
 [![Unchapetered's Cards](https://github-readme-stats.vercel.app/api?username=unchaptered)](https://github.com/anuraghazra/github-readme-stats)-->
