@@ -31,6 +31,7 @@ If someone want to mine, please check ***Profile Wiki*** in [link](https://githu
 - **21.06** Start with Node.js
 - **22.11 ~ 22.04** Comprehensive Web Development (HTML, CSS, JavaScript, JSP)
 - **22.07 ~ 22.10** 99 days Node.js Backend Boot Camp
+- **22.10 ~ ing** Working in edint.io
 
 
 <!--Logs
