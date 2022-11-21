@@ -6,7 +6,7 @@ More about me..
 
 ```javascript
 const unchpatered = {
-    now: 'doing korean boot camp, hanghae99',
+    now: 'working for Edint(edint.io)',
     lagnuage: {
         love: [ 'JavaScript', 'TypeScript' ],
         interest: [ 'Shell Script (bash)' ],
