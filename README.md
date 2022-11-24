@@ -15,7 +15,7 @@ const unchpatered = {
     framework: [ 'Express.js', 'Nest.js' ],
     testing: [ 'jest' ],
     others: {
-        aws: [ 'route53', 'ec2', 'rds', 's3', 'ses', 'codedeploy' ],
+        aws: [ 'route53', 'ec2', 'rds', 's3', 'ses', 'codedeploy', 'lambda' ],
         cloudflare: [ 'pages', 'worker' ],
         git: [ 'github', 'github actions' ],
         others: [ 'nginx', 'fail2ban' ],
