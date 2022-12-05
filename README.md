@@ -1,6 +1,6 @@
 _"unchaptered" menas "un" + "chaptered".<br>
 I think today isn't all chapter of my-iife.<br>
-I try to change my life all days, and I change my life._<br>__
+I try to change my life all days, and I change my life._<br>__ 
 
 More about me...
 
