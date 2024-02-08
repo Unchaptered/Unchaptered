@@ -16,12 +16,14 @@ And learning is some kind of hobby for me.
 - Golang
 - Terratest
 
-### Running Projects.
+### Projects.
 
-- django-controller `now privates`
-  - Django @controller, @injectable patterns to avoid MTV Patterns.
 - iac-storages `now privates`
   - Structure ansible, terraform, terratest to follow best-practices
+- django-controller `now migrating`
+  - Django @controller, @injectable patterns to avoid MTV Patterns.
+- labmda-typescript-monolithic `now planning`
+  - Dev, Test, Build, Deploy lambda with labmda-typescript-monolithic
 
 ### Running Group Studies
 
