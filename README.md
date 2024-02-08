@@ -11,7 +11,7 @@ And learning is some kind of hobby for me.
   - [TypeError: Passphrase required for encrypted key](https://github.com/aws/aws-sdk-js-v3/pull/4231)
   - [fix(cloudfront-signer): accept passphrase when signing](https://github.com/aws/aws-sdk-js-v3/pull/4232)
 
-### Learning
+### Learn
 
 - Golang
 - Terratest
