@@ -18,12 +18,12 @@ And learning is some kind of hobby for me.
 
 ### Projects.
 
-- iac-storages `now privates`
+- [iac-storages](https://github.com/unchaptered/iac-storage)
   - Structure ansible, terraform, terratest to follow best-practices
-- django-controller `now migrating`
-  - Django @controller, @injectable patterns to avoid MTV Patterns.
-- labmda-typescript-monolithic `now planning`
+- [labmda-typescript-monolithic](https://github.com/unchaptered/monolithic-lambda-best-practice) `now planning`
   - Dev, Test, Build, Deploy lambda with labmda-typescript-monolithic
+- django-controller `now planning`
+  - Django @controller, @injectable patterns to avoid MTV Patterns.
 
 ### Running Group Studies
 
