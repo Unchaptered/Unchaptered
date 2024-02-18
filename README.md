@@ -22,7 +22,7 @@ And learning is some kind of hobby for me.
   - Structure ansible, terraform, terratest to follow best-practices
 - [labmda-typescript-monolithic](https://github.com/unchaptered/monolithic-lambda-best-practice) `now planning`
   - Dev, Test, Build, Deploy lambda with labmda-typescript-monolithic
-- django-controller `now planning`
+- [django-controller](https://github.com/unchaptered/django-boilerplates/tree/main/src/routes) `now planning`
   - Django @controller, @injectable patterns to avoid MTV Patterns.
 
 ### Running Group Studies
