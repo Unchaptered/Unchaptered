@@ -2,7 +2,7 @@ I'm 2-year DevOps Engineer have **various experience** in dev, deploy and operat
 I have some processes for **growing quickly**, such as defining problem, diff&validate alternatives and retrospections.
 Love to **learn various languages and tools**, but interested in the problems that technology solves than the technology itself.
 
-And learning is some kind of hobby for me.
+And learning is some kind of hobby for me. 
 
 
 ### OpenSource Contributes
