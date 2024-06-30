@@ -4,6 +4,15 @@ Love to **learn various languages and tools**, but interested in the problems th
 
 And learning is some kind of hobby for me. 
 
+### Commit Pets
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/unchaptered"
+  width="450"
+  height="225"
+/>
+</a>
 
 ### OpenSource Contributes
 
@@ -47,3 +56,4 @@ And learning is some kind of hobby for me.
 | 2022  | CloudFlare, AWS      | **CloudFlare Sites**(Pages with React, Svelte-kit), **Serverless Function**(Workers with js) <br> **AWS Compute**(EB with Express), S3, RDS |
 | 2023  | AWS, RedHat, HashiCorp | **AWS Network**(VPC, Subnet, etc on), **Sites**(CloudFront, S3) **Compute**(ALB, ASG, EC2, ECS Fargate), **Deploy**(CodeDeploy, AMI, ASG), **Database**(RDS, DynamoDB), Storage(S3), **LogSystem**(Kinesis Firehose, Glue DataCatlog, S3 with Parquet Form) <br> Ansible, Terraform |
 | 2024  | AWS, RedHat, HashiCorp | AWS, Ansible, Packer, Terraform |
+
